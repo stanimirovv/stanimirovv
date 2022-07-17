@@ -6,7 +6,7 @@ Hit me up for Open Source Collabs :)
 
 You can reach me on [LinkedIn](https://www.linkedin.com/in/zlatin-stanimirov/)
 
-
+![stanimirovv's stats](https://github-readme-stats.vercel.app/api?username=stanimirovv)
 <!--
 **stanimirovv/stanimirovv** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
