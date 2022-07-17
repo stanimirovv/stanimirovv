@@ -1,5 +1,12 @@
 ### Hi there 👋
 
+:heart: Open Source
+
+Hit me up for Open Source Collabs :)
+
+You can reach me on [LinkedIn](https://www.linkedin.com/in/zlatin-stanimirov/)
+
+
 <!--
 **stanimirovv/stanimirovv** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
